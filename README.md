@@ -13,7 +13,7 @@
 
 ```bash
 python -m pip install -r requirements.txt
-
+```
 ## Запуск сервера и клиента
 
 ### Сервер
